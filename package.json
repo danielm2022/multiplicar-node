@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/danielm2022/multiplicar-node/issues"
   },
-  "homepage": "https://github.com/danielm2022/multiplicar-node#readme"
+  "homepage": "https://github.com/danielm2022/multiplicar-node#readme",
+  "dependencies": {
+    "yargs": "^17.6.2"
+  }
 }
