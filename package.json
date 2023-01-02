@@ -1,16 +1,19 @@
 {
   "name": "03-bases-node",
-  "version": "2.0.0",
-  "description": "Esta es una aplicación de línea de comando",
+  "version": "1.0.0",
+  "description": "Aplicacion de consola",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Fernando Herrera",
-  "license": "ISC",
-  "dependencies": {
-    "colors": "^1.1.2",
-    "yargs": "^11.0.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielm2022/multiplicar-node.git"
   },
-  "devDependencies": {}
+  "author": "Daniel Maldonado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielm2022/multiplicar-node/issues"
+  },
+  "homepage": "https://github.com/danielm2022/multiplicar-node#readme"
 }
